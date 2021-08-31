@@ -1,6 +1,11 @@
 Welcome to Git!!
+<<<<<<< HEAD
 Hello World!!!! change
 How are you?? change
+=======
+Hello World!!!!
+How are you??
+>>>>>>> bug2
 lets go!
 one more time.
 change to fix bug2
