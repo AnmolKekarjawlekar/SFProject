@@ -1,11 +1,8 @@
-Welcome to Git!!
-<<<<<<< HEAD
+Welcome to Git!!1
 Hello World!!!! change
-How are you?? change
-=======
-Hello World!!!!
-How are you??
->>>>>>> bug2
-lets go!
-one more time.
-change to fix bug2
+2 How are you?? change
+3 lets go!!
+4 one more time..
+5 change to fix bug2
+6 change - work on CR1
+7
